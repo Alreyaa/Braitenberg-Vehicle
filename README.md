@@ -12,12 +12,12 @@ Next the behavior of love is designed in such a way that when the sensor detects
 In explorer behavior, the left sensor is wired to the right motor and the right sensor is wired to the left motor. Similar to love, the vehicle moves around randomly in the darkness but once the photoresistor senses the light the vehicle moves towards the light, stops there for a few seconds and then starts to wander around irrespective of if the light is still present or not. Thus, it displays behavior of exploration, in search of new sources of light.
 
 The components used are:
-Component                                 Quantity 
-Arduino UNO                                  1
-Photoresistors                               2 
-Breadboard                                   1 
-Jumper wires                                 15 
-Chassis set (motors, chassis, wheels)        1 
-LM298N Motor Driver                          1 
-Lithium Battery (3.7V)                       2
+Arduino UNO-1 
+Photoresistors-2
+Breadboard-1 
+Jumper wires-15 
+Chassis set (motors, chassis, wheels)-1 
+LM298N Motor Driver-1 
+Lithium Battery (3.7V)-2
+                 
                    
